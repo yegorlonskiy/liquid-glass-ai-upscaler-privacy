@@ -1,0 +1,51 @@
+{
+  "repository": "https://huggingface.co/Phips/NERVE",
+  "revision": "f096235d764d851c4264ce853bf66f2d8a7f7111",
+  "models": [
+    {
+      "id": "natural-4x",
+      "label": "Natural",
+      "scale": 4,
+      "detail": "Чистые фотографии · мягкие детали",
+      "file": "4x_NERVE_1x3xHxW_fp32_op20.onnx",
+      "bytes": 7228477,
+      "sha256": "eeecdc430db756f36096b110ee275d860feab6b5c036a7c94e55c82d2d01b616"
+    },
+    {
+      "id": "natural-2x",
+      "label": "Natural",
+      "scale": 2,
+      "detail": "Чистые фотографии · быстрое увеличение",
+      "file": "2x_NERVE_1x3xHxW_fp32_op20.onnx",
+      "bytes": 7145533,
+      "sha256": "a499bc54cb9d442a94f63fab201de61c72b32bf88bab6dffffbd5abbb43cb5f7"
+    },
+    {
+      "id": "restore-4x",
+      "label": "Restore",
+      "scale": 4,
+      "detail": "Шум и JPEG · сохранение естественности",
+      "file": "4x_NERVE_OTF_fidelity_1x3xHxW_fp32_op20.onnx",
+      "bytes": 7228477,
+      "sha256": "510308a2f49a1abf1ef1f9a57fd76e6c946f993231f3dc2b3d67d6c95be4c4db"
+    },
+    {
+      "id": "detail-4x",
+      "label": "Detail",
+      "scale": 4,
+      "detail": "Повреждённые изображения · выразительные детали",
+      "file": "4x_NERVE_OTF_gan_1x3xHxW_fp32_op20.onnx",
+      "bytes": 7228477,
+      "sha256": "cb2513d504cdec4694d82c8a226609f75b684963d5f44b1a482987fa987fcdb2"
+    },
+    {
+      "id": "detail-2x",
+      "label": "Detail",
+      "scale": 2,
+      "detail": "Восстановление · увеличение в два раза",
+      "file": "2x_NERVE_OTF_gan_1x3xHxW_fp32_op20.onnx",
+      "bytes": 7145533,
+      "sha256": "85a6f5d8afc1b8cd1d2513ab6f87dafc083c921e9d5a7fb948ccaa98f3c7cb38"
+    }
+  ]
+}

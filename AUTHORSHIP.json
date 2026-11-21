@@ -1,0 +1,24 @@
+{
+  "project": "Liquid Glass AI Upscaler",
+  "author": "Yegor Lonskiy",
+  "year": 2026,
+  "originalCode": "Copyright (c) 2026 Yegor Lonskiy",
+  "scope": "Original application code, interface, integration and documentation only; not third-party models, architecture, weights, runtime, libraries, icons, fonts or illustrations.",
+  "models": {
+    "author": "Philip Hofmann / Phips",
+    "license": "Apache-2.0",
+    "trainedByProjectAuthor": false,
+    "weightsModified": false
+  },
+  "runtime": {
+    "author": "Microsoft and ONNX Runtime contributors",
+    "license": "MIT",
+    "modifications": "legal/runtime-preparation.json"
+  },
+  "avatar": "creator-avatar.jpg",
+  "avatarCharacter": "Foxy Hollo",
+  "avatarAuthor": "Yegor Lonskiy",
+  "originalCharacters": ["Yuki Fox", "Foxy Hollo"],
+  "supportUrl": "https://paypal.me/YegorLonskiy",
+  "thirdPartyCredits": "legal/THIRD-PARTY-NOTICES.txt"
+}

@@ -1,0 +1,27 @@
+﻿Liquid Glass AI Upscaler
+
+Автор проекта и собственного исходного кода: Yegor Lonskiy.
+Copyright (c) 2026 Yegor Lonskiy. Все права на собственный код сохранены.
+
+Авторство относится к исходникам приложения, его дизайну, скриптам и тестам,
+созданным для этого проекта, а не ко всему содержимому установочного пакета.
+NERVE, его архитектура, обучение и веса — Philip Hofmann / Phips, Apache-2.0.
+ONNX Runtime — Microsoft и участники, MIT с собственными сторонними уведомлениями.
+Yegor Lonskiy не создавал эти модели, веса или движок и не обучал нейросеть.
+Персонажи Юки Фокс / Yuki Fox и Фокси Холло / Foxy Hollo, а также иллюстрация
+Фокси Холло в аватаре автора — авторские материалы Yegor Lonskiy.
+Сторонние модели, библиотеки, значки, шрифты и файл
+docs/upstream/nerve_arch.py сохраняют авторство и лицензии своих владельцев.
+Уведомления сторонних авторов находятся в public/legal/.
+
+Project and original-code author: Yegor Lonskiy.
+Copyright (c) 2026 Yegor Lonskiy. All rights to the original code are reserved.
+This authorship covers this application's original code, design, scripts and tests.
+It does not cover all contents of the installation. NERVE's architecture, training
+and pretrained weights are by Philip Hofmann / Phips under Apache-2.0.
+ONNX Runtime is by Microsoft and contributors under MIT with its own dependency notices.
+Yegor Lonskiy did not create those models, weights or runtime, or train the network.
+Yuki Fox, Foxy Hollo and the Foxy Hollo author-avatar illustration are original
+character and artwork materials by Yegor Lonskiy.
+Third-party models, libraries, icons, fonts and docs/upstream/nerve_arch.py retain
+their respective authorship and licences. See public/legal/ for their notices.

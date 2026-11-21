@@ -1,0 +1,136 @@
+{
+  "author": "Yegor Lonskiy",
+  "upstream": "onnxruntime-web 1.31.1",
+  "license": "MIT",
+  "change": "Readable diagnostic labels normalized; executable sections and segment positions preserved.",
+  "records": [
+    {
+      "file": "ort-wasm-simd-threaded.wasm",
+      "originalSha256": "4b884c203b0fa48d057be3332c65513ff85aa3c5bddd6946acc0fab7ecda001d",
+      "sha256": "821c8d9d259d462638f2ea53789d9c851262a02a1be1cb6fa00840749e24ff67",
+      "bytes": 14848852,
+      "revisions": [
+        {
+          "offset": 13790562,
+          "length": 8
+        },
+        {
+          "offset": 13811454,
+          "length": 74
+        },
+        {
+          "offset": 13811529,
+          "length": 74
+        },
+        {
+          "offset": 13811634,
+          "length": 62
+        },
+        {
+          "offset": 13826997,
+          "length": 220
+        },
+        {
+          "offset": 13842396,
+          "length": 33
+        },
+        {
+          "offset": 13850812,
+          "length": 200
+        },
+        {
+          "offset": 13861177,
+          "length": 22
+        },
+        {
+          "offset": 13887202,
+          "length": 96
+        },
+        {
+          "offset": 13887299,
+          "length": 94
+        },
+        {
+          "offset": 13939521,
+          "length": 87
+        },
+        {
+          "offset": 13975620,
+          "length": 138
+        },
+        {
+          "offset": 14142082,
+          "length": 54
+        },
+        {
+          "offset": 14293887,
+          "length": 32
+        },
+        {
+          "offset": 14317819,
+          "length": 94
+        },
+        {
+          "offset": 14358280,
+          "length": 367
+        },
+        {
+          "offset": 14364263,
+          "length": 199
+        },
+        {
+          "offset": 14430283,
+          "length": 187
+        },
+        {
+          "offset": 14476365,
+          "length": 25
+        }
+      ],
+      "executableSectionsSha256": "9c966168194af57c9e2d7c9a945cdfe0fc611fe2e799b2d7640c3eceb8d028f4",
+      "executableSectionsUnchanged": true
+    },
+    {
+      "file": "ort-wasm-simd-threaded.asyncify.wasm",
+      "originalSha256": "ca319e9539cd0f1e291cf56074760121eaf39650f5dbf84b6e52c07f4b2944ec",
+      "sha256": "ae5a68e5e0a7e4df0952bdc6d346e347b548f1e06de7a5a9db1c3669a708bddd",
+      "bytes": 28747738,
+      "revisions": [
+        {
+          "offset": 27340298,
+          "length": 8
+        },
+        {
+          "offset": 27366578,
+          "length": 74
+        },
+        {
+          "offset": 27366653,
+          "length": 74
+        },
+        {
+          "offset": 27385359,
+          "length": 220
+        },
+        {
+          "offset": 27421191,
+          "length": 22
+        },
+        {
+          "offset": 27673642,
+          "length": 54
+        },
+        {
+          "offset": 27838153,
+          "length": 32
+        },
+        {
+          "offset": 28043717,
+          "length": 25
+        }
+      ],
+      "executableSectionsSha256": "f4e47d88fc7e75134a7183b00994b3d98bc621ccd1a28fda239c47c81da08384",
+      "executableSectionsUnchanged": true
+    }
+  ]
+}

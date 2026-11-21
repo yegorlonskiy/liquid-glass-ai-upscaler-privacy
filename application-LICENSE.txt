@@ -1,0 +1,75 @@
+﻿Liquid Glass AI Upscaler
+Copyright (c) 2026 Yegor Lonskiy
+
+РУССКИЙ
+
+Я, Yegor Lonskiy, сохраняю авторские права на созданные мной оригинальный код
+приложения, оформление и документацию. На условиях public/privacy.html#terms
+(privacy.html#terms в готовом расширении) я предоставляю неисключительное
+безвозмездное разрешение устанавливать и запускать предоставленное приложение
+на своих устройствах для законной личной некоммерческой обработки изображений.
+Ограничения, отказы от гарантий, положения об ответственности и обязательства
+пользователя в этом документе являются условиями разрешения.
+Если вы их не принимаете, не устанавливайте и не используйте приложение;
+если оно уже установлено, прекратите использование и удалите его.
+
+Я не разрешаю коммерческое или предпринимательское использование моего кода
+приложения, включая оплачиваемую профессиональную работу, обслуживание клиентов,
+платные заказы, производство или продажу товаров и услуг и другую деятельность
+ради коммерческой выгоды или денежного вознаграждения.
+Донаты полностью добровольны, не разрешают коммерческое использование и не
+создают обязательств по поддержке, гарантиям, обновлениям или будущей разработке.
+В пределах, допустимых законом, я предоставляю приложение «как есть» и «по мере
+доступности», без добровольных гарантий и обязательств по обслуживанию.
+Бесплатность не передаёт мои авторские права и не даёт общего разрешения
+распространять мой код, менять его лицензию или присваивать авторство.
+
+Эти условия относятся только к моим оригинальным коду, оформлению и документации.
+Я не являюсь автором архитектуры NERVE, не обучал включённые модели и не создавал
+их веса. ONNX Runtime, библиотеки, значки, шрифты и сторонние изображения также
+не являются моей разработкой. Они сохраняют собственных авторов и лицензии.
+Мои ограничения не заменяют эти лицензии и не сокращают права, предоставленные
+непосредственно их правообладателями. Полные сторонние уведомления включены
+в public/legal/ исходного проекта и legal/ готового расширения.
+Персонажи Юки Фокс и Фокси Холло и изображение Фокси Холло, выбранное мной
+для аватара, относятся к моим авторским материалам. Разрешение пользоваться
+приложением не является отдельной лицензией на персонажей или иллюстрации.
+Обработка ваших файлов сама по себе не передаёт мне прав на них.
+Права, способы защиты и ответственность, которые нельзя исключить или ограничить
+по закону, сохраняются и имеют приоритет перед противоречащими положениями,
+включая положения о требованиях и судебных разбирательствах.
+
+ENGLISH
+
+I am Yegor Lonskiy. I retain copyright in the original application code, design
+and documentation I created. Subject to public/privacy.en.html#terms
+(privacy.en.html#terms in the finished extension), I grant non-exclusive,
+royalty-free permission to install and run the supplied application on your
+devices for lawful, personal, non-commercial image processing. The restrictions,
+warranty disclaimers, liability provisions and user obligations in that document
+are conditions of this permission. If you do not accept them, do not install or
+use the application; if already installed, stop using it and uninstall it.
+
+I do not authorize commercial or business use of my application code, including
+paid professional work, client services, paid commissions, production or sale of
+goods or services, or other activity for commercial advantage or compensation.
+Donations are entirely optional, do not authorize commercial use, and create no
+commitments to provide support, warranties, updates or future development.
+To the extent permitted by law, I provide the application AS IS and AS AVAILABLE,
+without voluntary warranties or maintenance commitments. Free availability does
+not transfer my copyright or grant general permission to redistribute my code,
+change its licence or claim authorship.
+
+These terms apply only to my original code, design and documentation. I did not
+create the NERVE architecture, train the bundled models or create their weights.
+ONNX Runtime, libraries, icons, fonts and third-party images are not my work.
+They retain their own authors and licences. My restrictions do not replace those
+licences or reduce rights granted directly by their rightsholders. Complete
+third-party notices are in public/legal/ in the source and legal/ in the extension.
+Yuki Fox, Foxy Hollo and the Foxy Hollo illustration I selected as my avatar
+are my original character and artwork materials. Permission to use the application
+does not grant a separate licence to the characters or illustrations.
+Processing your files does not itself give me rights to them.
+Mandatory rights, remedies and liability that cannot lawfully be excluded or
+limited remain unaffected and take precedence over conflicting provisions,
+including provisions concerning claims and legal proceedings.
